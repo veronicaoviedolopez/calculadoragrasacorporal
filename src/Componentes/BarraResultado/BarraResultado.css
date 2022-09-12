@@ -1,0 +1,56 @@
+.mdi {
+    display: inline-block;
+    font: normal normal normal 36px/1 "Material Design Icons";
+    /*font-size: inherit; */
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+.bgDegradado {
+    background: #30c9e8;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #30c9e8,#5be830, #e5e830f1 , #FF8235);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #30c9e8,#5be830,  #e5e830f8 ,#FF8235); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#circle-0 {
+    width: 20px;
+    height: 20px;
+    background: #30c9e8;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+#circle-1 {
+    width: 20px;
+    height: 20px;
+    background: #5be830;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+#circle-2 {
+    width: 20px;
+    height: 20px;
+    background: #cde97f;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+#circle-3 {
+    width: 20px;
+    height: 20px;
+    background: #eaec44c3;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+#circle-4 {
+    width: 20px;
+    height: 20px;
+    background: #FF8235;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
